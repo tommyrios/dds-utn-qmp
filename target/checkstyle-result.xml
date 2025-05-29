@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\AsesorDeImagen.java">
+<error line="6" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="13" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Atuendo.java">
+<error line="7" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="17" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="27" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Borrador.java">
+<error line="10" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="50" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\clima\AccuWeatherApi.java">
+<error line="6" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\clima\EstadoDelTiempo.java">
+<error line="5" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="10" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\clima\RespuestaMeteorologica.java">
+<error line="6" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\clima\ServicioMeteorologico.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\clima\ServicioMeteorologicoAccuWeather.java">
+<error line="8" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="30" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Color.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="8" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\CategoriaPrenda.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\Estilo.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\Humedad.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\Material.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\TipoPrenda.java">
+<error line="5" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\enums\Trama.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\exceptions\MaterialInvalidoException.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\exceptions\PrendaInvalidaException.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Guardarropas.java">
+<error line="9" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="14" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="22" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="35" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="59" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Prenda.java">
+<error line="12" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="21" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sastres\Sastre.java">
+<error line="6" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="7" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sastres\SastreJohnson.java">
+<error line="9" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sastres\SastreSanJuan.java">
+<error line="9" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sugerencias\MotorBasico.java">
+<error line="7" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sugerencias\MotorDeSugerencias.java">
+<error line="7" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\sugerencias\MotorMayores.java">
+<error line="10" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="11" column="3" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Uniforme.java">
+<error line="3" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="C:\Users\Lenovo\OneDrive\Escritorio\UTN\tercer-año\diseño-de-sistemas\ejercicio_qmp\src\main\java\ar\edu\utn\frba\dds\qmp\Usuario.java">
+<error line="6" column="1" severity="warning" message="Falta el comentario Javadoc." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+</checkstyle>
